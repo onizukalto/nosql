@@ -96,11 +96,3 @@ Maîtriser les fondamentaux de Redis en utilisant sa CLI (Interface en Ligne de 
   PFCOUNT visiteurs
   ```
 ---
-## Étape 5 : Validation du Travaux Pratique
-Demandez à l'étudiant de :
-1. Collecter des preuves visuelles des résultats via des captures d'écran.
-2. Répondre à des interrogations analytiques comme :
-   - Quelles distinctions existe-t-il entre une liste et un ensemble chez Redis ?
-   - Quels bénéfices procure l'utilisation de clés temporaires ?
-3. Rédiger une conclusion mettant en lumière l'intérêt pratique de Redis.
----
